@@ -1,10 +1,35 @@
 
-Catalinita es una pequeña muñeca muy lista creada en las oficinas de IBM Madrid por nuestra empleada Maria Jesús Castellanos. 
+_sudo node Catalinita\_lorito.js_
 
-Ella te puede ayudar a revisar las capacidades de hablar y escuchar de tu TJBot, además de ayudarte a repasar las tablas de multiplicar.
+#### Usar el programa _Catalinita\_lorito.js_
+Puedes interactuar con Catalinita diciéndole:
+1) _Hola_: te saludará.
+2) _Adiós_: se despedirá.
+3) O cualquier cosa: te repetirá lo que te haya entendido. <br>
 
-¡ Pon una Catalinita en tu vida !
+(Si _Catalinita\_lorito.js_ te funciona perfectamente, pero el programa _conversation.js_ del TJBot no te responde nada, recuerda que cuando uses el _conversation.js_ debes empezar cada frase que digas con el nombre del TJBot que hayas definido. Si no le has puesto ningún nombre específicamente, por defecto su nombre es Watson.<br>
+Asegúrate de que el TJBot entiende bien el nombre que has elegido.)<br>
 
-![Catalinita](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita.png)
-<br>
+## Catalinita y las tablas de multiplicar
+Catalinita se sabe las tablas de multiplicar de la 0 a la 20. Te las puede decir ella a ti, o te las puede preguntar para que tú se las digas a ella, a ver si tú también te las sabes.
+
+¡No dejes de ver el vídeo para conocerla en acción!
+
+[![Catalinita](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_video.png)](https://ibm.ent.box.com/file/464860317152)
+
+#### Poner en marcha el programa _Catalinita\_tablas\_de\_multiplicar.js_
+Si quieres que Catalinita te ayude a aprenderte las tablas de multiplicar, sólo tienes que hacer tres cosas:
+1) Descargar el programa ![Catalinita_tablas_de_multiplicar.js](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_tablas_de_multiplicar.js) a la raspberrypi.
+2) Ubicar el fichero descargado (_Catalinita\_tablas\_de\_multiplicar.js_) en el directorio donde ya estés ejecutando satisfactoriamente el programa _conversation.js_ del TJBot o _Catalinita\_lorito.js_.
+3) Ejecutar: <br>
+_sudo node Catalinita\_tablas\_de\_multiplicar.js_
+
+#### Usar el programa _Catalinita\_tablas\_de\_multiplicar.js_
+Puedes interactuar con Catalinita haciéndole alguna de las siguientes preguntas:
+1) _Dime la tabla del trece_. (En vez de trece, le puedes decir cualquier número del 0 al 20.) 
+2) _¿Cuánto es nueve por siete?_ (En vez de nueve y siete, le puedes decir cualesquieras dos números entre el 0 y el 20.)
+3) _¿Pregúntame todas las tablas?_ (Y te preguntará aleatoriamente la multiplicaciónun de dos números entre el 2 y el 10.)
+4) _¿Pregúntame la tabla del ocho?_ (En vez de ocho, le puedes decir cualquier número del 0 al 20.)
+5) _Otra vez_ (En caso de que le hayas pedido que te pregunte ella, para pedirle que te vuelva a preguntar con las mismas condiciones, puedes repetirle la pregunta o decirle simplemente _otra vez_.)
+os. 
 
