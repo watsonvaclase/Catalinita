@@ -1,14 +1,14 @@
 # Catalinita
 Te presento a Catalinita: una niña muy lista y muy guapa a la que le encanta jugar y ayudar.
 
-![Catalinita](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita.png)
+![Catalinita](./Catalinita.png)
 <br>
 
 ## Catalinita te ayuda a probar la capacidad de hablar de tu TJBot
 Si dudas de la capacidad de hablar de tu TJBot, Catalinita te saca de dudas. Ella verbalizará el texto que tú quieras.
 
 Para poner en marcha el programa _Catalinita\_hablame.js_ sólo tienes que hacer cinco cosas:
-1) Descargar el audio ![Noise.wav](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Noise.wav) y el programa ![Catalinita_hablame.js](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_hablame.js) a la raspberrypi.
+1) Descargar el audio ![Noise.wav](./Noise.wav) y el programa ![Catalinita_hablame.js](./Catalinita_hablame.js) a la raspberrypi.
 2) Ubicar los dos ficheros descargados (_Noise.wav_ y _Catalinita\_hablame.js_) en el directorio donde esté el programa _conversation.js_ del TJBot.
 3) Asegurar que en ese directorio haya un subdirectorio llamado _node\_modules_. En caso negativo, ejecutar: <br>
 _npm install_
@@ -25,7 +25,7 @@ Si dudas de la capacidad de escuchar de tu TJBot, Catalinita te saca de dudas. E
 
 #### Poner en marcha el programa _Catalinita\_lorito.js_
 Sólo tienes que hacer cinco cosas:
-1) Descargar el programa ![Catalinita_lorito.js](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_lorito.js) a la raspberrypi.
+1) Descargar el programa ![Catalinita_lorito.js](./Catalinita_lorito.js) a la raspberrypi.
 2) Ubicar el programa descargado (_Catalinita\_lorito.js_) en el directorio donde esté el programa _conversation.js_ del TJBot.
 3) Asegurar que en ese directorio haya un subdirectorio llamado _node\_modules_. En caso negativo, ejecutar: <br>
 _npm install_
@@ -47,11 +47,11 @@ Catalinita se sabe las tablas de multiplicar de la 0 a la 20. Te las puede decir
 
 ¡No dejes de ver el vídeo para conocerla en acción!
 
-[![Catalinita](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_video.png)](https://ibm.ent.box.com/file/464860317152)
+[![Catalinita](./Catalinita_video.png)](https://ibm.ent.box.com/file/464860317152)
 
 #### Poner en marcha el programa _Catalinita\_tablas\_de\_multiplicar.js_
 Si quieres que Catalinita te ayude a aprenderte las tablas de multiplicar, sólo tienes que hacer tres cosas:
-1) Descargar el programa ![Catalinita_tablas_de_multiplicar.js](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_tablas_de_multiplicar.js) a la raspberrypi.
+1) Descargar el programa ![Catalinita_tablas_de_multiplicar.js](./Catalinita_tablas_de_multiplicar.js) a la raspberrypi.
 2) Ubicar el fichero descargado (_Catalinita\_tablas\_de\_multiplicar.js_) en el directorio donde ya estés ejecutando satisfactoriamente el programa _conversation.js_ del TJBot o _Catalinita\_lorito.js_.
 3) Ejecutar: <br>
 _sudo node Catalinita\_tablas\_de\_multiplicar.js_
