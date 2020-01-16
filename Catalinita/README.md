@@ -25,7 +25,7 @@ Si dudas de la capacidad de escuchar de tu TJBot, Catalinita te saca de dudas. E
 
 #### Poner en marcha el programa _Catalinita\_lorito.js_
 Sólo tienes que hacer cinco cosas:
-1) Descargar el programa ![Catalinita_lorito.js](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_lorito.js) a la raspberrypi.
+1) Descargar el programa ![Catalinita_lorito.js](https://github.com/watsonvaclase/Catalinita/blob/master/Catalinita/Catalinita_lorito.js) a la raspberrypi.
 2) Ubicar el programa descargado (_Catalinita\_lorito.js_) en el directorio donde esté el programa _conversation.js_ del TJBot.
 3) Asegurar que en ese directorio haya un subdirectorio llamado _node\_modules_. En caso negativo, ejecutar: <br>
 _npm install_
