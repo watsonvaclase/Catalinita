@@ -8,7 +8,7 @@ Te presento a Catalinita: una niña muy lista y muy guapa a la que le encanta ju
 Si dudas de la capacidad de hablar de tu TJBot, Catalinita te saca de dudas. Ella verbalizará el texto que tú quieras.
 
 Para poner en marcha el programa _Catalinita\_hablame.js_ sólo tienes que hacer cinco cosas:
-1) Descargar el audio ![Noise.wav](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Noise.wav) y el programa ![Catalinita_hablame.js](https://github.com/watsonvaclase/Propuestas/blob/master/Catalinita/Catalinita_hablame.js) a la raspberrypi.
+1) Descargar el audio ![Noise.wav](https://github.com/watsonvaclase/Catalinita/blob/master/Catalinita/Noise.wav) y el programa ![Catalinita_hablame.js](https://github.com/watsonvaclase/Catalinita/blob/master/Catalinita/Catalinita_hablame.js) a la raspberrypi.
 2) Ubicar los dos ficheros descargados (_Noise.wav_ y _Catalinita\_hablame.js_) en el directorio donde esté el programa _conversation.js_ del TJBot.
 3) Asegurar que en ese directorio haya un subdirectorio llamado _node\_modules_. En caso negativo, ejecutar: <br>
 _npm install_
